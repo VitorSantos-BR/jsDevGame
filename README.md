@@ -1,4 +1,4 @@
-<h1>Minigames created using JavaScript</h1>
+<h1>Minigames created using JavaScript HTML and CSS</h1>
 
 > Status: Developing
 
