@@ -12,8 +12,8 @@ This repository is a showcase of simple minigames created using JavaScript. The 
 * HTML: For structuring the game layout.
 * CSS: For styling and visual design.
 
-## Contributions
-Contributions are welcome! If you have ideas for new games, improvements to existing ones, or bug fixes, feel free to open an issue or submit a pull request.
-
 ## License
 * This repository is licensed under the MIT License.
+
+## Contributions
+Contributions are welcome! If you have ideas for new games, improvements to existing ones, or bug fixes, feel free to open an issue or submit a pull request.
